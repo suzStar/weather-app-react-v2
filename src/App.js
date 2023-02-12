@@ -11,6 +11,7 @@ function App() {
           <a
             href="https://github.com/suzStar/weather-app-react"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             open-source on GitHub
